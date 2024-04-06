@@ -28,7 +28,7 @@ div.align{
     border-spacing: inherit;
 }
 
-.secondary-container{
+.text-container{
     float: right;
     width:50%;
     padding-left: 50px;
@@ -37,6 +37,7 @@ div.align{
     padding-top: 10px;
     border-bottom: 1px black solid;
     border-spacing: inherit;
+    font-size: 18px;
 }
 
 #mainheader{
