@@ -1,5 +1,14 @@
 @font-face{
     font-family:'Veselka4F';
     src: url('../fonts/Veselka4F.otf') format('opentype');
-    font-style: 'bold';
+}
+
+@font-face{
+    font-family:'IdealistSans';
+    src: url('../fonts/IdealistSans.otf') format('opentype');
+}
+
+@font-face{
+    font-family:'IdealistSansLight';
+    src: url('../fonts/IdealistSans-Light.otf') format('opentype');
 }
