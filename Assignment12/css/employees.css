@@ -1,0 +1,25 @@
+p img{
+	float: left;
+	width: 200px;
+	height: 175px;
+}
+
+.box {
+	float: right;
+	width: 765px;
+	height: 175px;
+	padding-left: 30px;
+	border-top: solid;
+	border-top-width: 1px;
+	font-family: 'Montserrat', sans-serif;
+	color: #b0b0b0;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 25px;
+}
+
+h2 {
+	color: #000000;
+}
