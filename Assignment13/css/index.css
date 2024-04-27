@@ -1,0 +1,31 @@
+#hero img{
+	width:1000px;
+}
+
+.text{
+	font-family: 'Montserrat', sans-serif;
+	color: #b0b0b0;
+	display: inline;
+	font-size: 12px;
+	width: 308px;
+	margin-top: 25px;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 37px;
+	float: left;
+}
+
+#leftbox {
+	padding-left: 0px;
+}
+
+#rightbox {
+	padding-right: 0px;
+	border-right: 0px;
+	display: inline;
+}
+
+h2{
+	text-align: center;
+	color: #000000
+}
